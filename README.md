@@ -9,8 +9,7 @@
 
 ### Currently Working On
 
-- **Huddle** — A social event platform where people can create and join events.
-- Building AI-powered features to make event creation and discovery easier.
+- **Huddle** — A social event platform where people can create and join events. Building AI-powered features to make event creation and discovery easier.
 
 ### Open Source
 
