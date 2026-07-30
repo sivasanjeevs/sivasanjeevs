@@ -4,8 +4,8 @@
 
 ### Experience
 
-- **R&D Intern @ Goat Robotics**
-- **AI Engineer Intern @ Asthyah Labs**
+- R&D Intern @ Goat Robotics
+- AI Engineer Intern @ Ashthyah Labs
 
 ### Currently Working On
 
