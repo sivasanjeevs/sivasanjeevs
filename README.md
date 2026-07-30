@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sivasanjeev S 
 
-<!--
-**sivasanjeevs/sivasanjeevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Designer**
 
-Here are some ideas to get you started:
+### 💻 Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **R&D Intern @ Goat Robotics**
+- **AI Engineer Intern @ Asthyah Labs**
+
+### Currently Working On
+
+- **Huddle** — A social event platform where people can create and join events.
+- Building AI-powered features to make event creation and discovery easier.
+
+### Open Source
+
+Currently exploring open source and looking forward to contributing to interesting projects.
+
+---
+
+### Let's Connect!
+
+- **Email:** sivasanjeevs66@gmail.com
+- **LinkedIn:** [sivasanjeev](https://www.linkedin.com/in/sivasanjeev-s-02931b282/)
