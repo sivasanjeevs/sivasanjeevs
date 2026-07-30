@@ -1,8 +1,8 @@
-# Hi, I'm Sivasanjeev S 
+# Hey!, I'm Sivasanjeev S 
 
 **Software Developer | Designer**
 
-### 💻 Experience
+### Experience
 
 - **R&D Intern @ Goat Robotics**
 - **AI Engineer Intern @ Asthyah Labs**
