@@ -2,16 +2,16 @@
 
 **Software Developer | Designer**
 
-### Experience
+### Experience :
 
 - R&D Intern @ Goat Robotics
-- AI Engineer Intern @ Ashthyah Labs
+- AI Engineer Intern @ Ashtayah Labs
 
-### Currently Working On
+### Currently Working On :
 
 - **Huddle** — A social event platform where people can create and join events. Building AI-powered features to make event creation and discovery easier.
 
-### Open Source
+### Open Source :
 
 Currently exploring open source and looking forward to contributing to interesting projects.
 
