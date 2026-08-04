@@ -1,6 +1,6 @@
 # Hey!, I'm Sivasanjeev S 
 
-**Software Developer | Designer**
+**Student** | **Software Developer | Designer**
 
 ### Experience :
 
