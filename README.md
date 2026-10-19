@@ -1,8 +1,6 @@
 # Hey, I'm Sivasanjeev S 👋
 
-Theoretical Computer Science student at PSG Tech, India.
-I enjoy building software, exploring AI, and solving interesting
-problems through code.
+Theoretical CS undergrad at PSG Tech, India. I like building cool stuff with code, designing creatives for college events, and exploring AI. Recently started contributing to open source
 
 
 ### What I've Been Up To
