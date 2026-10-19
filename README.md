@@ -1,23 +1,44 @@
-# Hey!, I'm Sivasanjeev S 
+# Hey, I'm Sivasanjeev S 👋
 
-**Student | Software Developer | Designer**
+Theoretical Computer Science student at PSG Tech, India.
+I enjoy building software, exploring AI, and solving interesting
+problems through code.
 
-### Experience :
 
-- R&D Intern @ Goat Robotics
-- AI Engineer Intern @ Ashtayah Labs
+### What I've Been Up To
 
-### Currently Working On :
+- **R&D Intern @ Goat Robotics**
+  - Built web-based robotics tools using React, TypeScript, and Three.js.
+  - Worked on Multi-Agent Path Finding (MAPF) for autonomous robots.
+  - Explored path planning, dynamic replanning, and fleet coordination.
 
-- **Huddle** — A social event platform where people can create and join events. Building AI-powered features to make event creation and discovery easier.
+- **AI Engineer Intern @ Ashtayah Labs**
+  - Developed an AI-powered invoice processing and GST reconciliation platform.
+  - Built intelligent invoice matching and reconciliation workflows.
+  - Integrated Gemini AI, Gmail OAuth, Firebase, Node.js, and React.
 
-### Open Source :
+### Projects I'm Proud Of
 
-Currently exploring open source and looking forward to contributing to interesting projects.
+- **Implicit Dehazing for Autonomous Vehicle Perception** —
+  Research on improving semantic segmentation under challenging
+  daytime and nighttime visibility conditions using PyTorch.
+  
+ - **Huddle** — An AI-powered social event platform that helps
+  people create, discover, and join events.
 
----
+
+### Stack
+
+- **Languages:** C++, Python, JavaScript, TypeScript, SQL
+- **Frameworks & Tools:** React, Next.js, FastAPI, Node.js, Git, GitHub, Docker, Firebase, MongoDB, Grafana, Figma
+
+### Open Source
+
+Always interested in exploring interesting projects,
+learning from other developers, and contributing to open source.
 
 ### Let's Connect!
 
-- **Email:** sivasanjeevs66@gmail.com
-- **LinkedIn:** [sivasanjeev](https://www.linkedin.com/in/sivasanjeev-s-02931b282/)
+- **Email:** [Your email](mailto:sivasanjeevs66@gmail.com)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sivasanjeev-s-02931b282/)
+- **Portfolio:** [sivasanjeevs.vercel.app](https://sivasanjeevs.vercel.app/)
