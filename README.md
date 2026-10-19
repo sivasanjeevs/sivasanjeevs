@@ -37,6 +37,6 @@ learning from other developers, and contributing to open source.
 
 ### Let's Connect!
 
-- **Email:** [Your email](mailto:sivasanjeevs66@gmail.com)
+- **Email:** [sivasanjeevs66@gmail.com](mailto:sivasanjeevs66@gmail.com)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sivasanjeev-s-02931b282/)
 - **Portfolio:** [sivasanjeevs.vercel.app](https://sivasanjeevs.vercel.app/)
